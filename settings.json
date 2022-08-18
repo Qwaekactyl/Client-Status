@@ -1,0 +1,5 @@
+{
+  "client_url": "client.example.com",
+  "bot_token": "",
+  "channel_id": "channel id in which you want the bot to show status (client status)"
+}

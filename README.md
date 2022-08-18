@@ -5,4 +5,4 @@ A Bot Made  In NodeJS That Shows Weither The Client Is Offline Or Online
 ## in your dezired channel whos id you have putten in the `settings.json` file.
           
 # Copyright
-## This Project is Created And Managed By [Qwaekactyl Inc]("https://github.com/Qwaekactyl")
+## This Project is Created And Managed By [Qwaekactyl Inc](https://github.com/Qwaekactyl)
